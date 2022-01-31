@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CAD92</color>
+    <color name="colorPrimaryDark">#1CAD92</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="pomegranate">#F22925</color>
+    <color name="shark">#142644</color>
+    <color name="mirage10">#F4F5F7</color>
+    <color name="mirage200">#A2A5A7</color>
+    <color name="mirage400">#5D6166</color>
+    <color name="mirage700">#171D24</color>
+    <color name="sunglow800">#FECE2F</color>
+    <color name="ash">#99000000</color>
+    <color name="lightAsh">#61000000</color>
+    <color name="rainySky">#33000000</color>
+    <color name="bg">#F4F7FB</color>
+    <color name="gray_light">#f8f8f8</color>
+    <color name="gray1">#949494</color>
+    <color name="gray2">#707070</color>
+    <color name="gray3">#363638</color>
+    <color name="gray4">#E6E6E6</color>
+    <color name="gray5">#E5E5E5</color>
+    <color name="gray100">#F3F4F5</color>
+    <color name="ripple_white">#4dffffff</color>
+    <color name="btn_green">#FF1CAD92</color>
+    <color name="btn_green_disabled">#ffcfcfcf</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorSurface">#FFFFFFFF</color>
+    <color name="bottom_sheet_dialog_stroke_color">#FFE1E1E1</color>
+    <color name="lightGray">#CFCFCF</color>
+    <color name="set_pass_frag_error_default">#FF343836</color>
+    <color name="black87">#DE000000</color>
+    <color name="black60">#99000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#E5E5E5</color>
+    <color name="red">#F14A55</color>
+
+    <color name="primary_green">#FF1CAD92</color>
+    <color name="primary_text_color">#FF343836</color>
+    <color name="alto">#CFCFCF</color>
+    <color name="mountain_meadow">#1CAD92</color>
+    <color name="black37">#5E000000</color>
+    <color name="yellow">#FCB922</color>
+    <color name="green500">#009F67</color>
+</resources>

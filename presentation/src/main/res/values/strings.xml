@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="no_internet_title">No internet connection</string>
+    <string name="no_internet_error_text">There is no or poor internet connection in your device</string>
+    <string name="notification_channel_id" translatable="false">Default notifications</string>
+    <string name="app_channel" translatable="false">App Notification channel</string>
+    <string name="cancel">CANCEL</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="unknown_error_title">Error</string>
+
+    <string name="title_btc_price">Bitcoin price</string>
+    <string name="price_place_holder">- - - -</string>
+    <string name="rate_place_holder">_ _ _ _</string>
+    <string name="min_price_label">Minimum price:</string>
+    <string name="max_price_label">Minimum price:</string>
+    <string name="price_label">price</string>
+    <string name="btn_update">Update</string>
+    <string name="label_set_max_price">Set maximum price</string>
+    <string name="label_set_min_price">Set minimum price</string>
+
+</resources>
